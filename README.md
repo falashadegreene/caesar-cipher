@@ -1,14 +1,14 @@
-Lab - Lab 18 Cryptography
-Project: Caesar Cipher
-Author: Falashade Greene
+# Lab - Lab 18 Cryptography
+## Project: Caesar Cipher
+## Author: Falashade Greene
 
 
-Setup:
+## Setup:
 
-install nltk `pip install nlk`
-run tests: pytest
-run application: python caesar_cipher
+### install nltk `pip install nlk`
+### run tests: pytest
+### run application: python caesar_cipher
 
-Collaborators 
+### Collaborators 
 - Tanesha Brester
 
