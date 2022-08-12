@@ -1,5 +1,5 @@
 import re
-from .corpus_loader import word_list, name_list
+from corpus_loader import word_list, name_list
 
 
 alpha = "abcdefghijklmnopqrstuvwxyz"
